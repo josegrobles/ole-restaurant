@@ -1,0 +1,206 @@
+﻿@charset "UTF-8"; 
+@media screen and (min-width:1313px){
+.rssBody{
+width:85%; 
+position:relative; 
+left:50%; 
+margin-left:-35%; 
+top:50px}
+.rssBody ul{
+width:95%; 
+display:inline-block}
+.rssBody li{
+width:50%; 
+position:relative; 
+display:inline-block}
+.rssFeed{
+font-family:Arial,Helvetica,sans-serif; 
+font-size:90%; 
+margin:2em 3em; 
+width:92%; 
+display:inline-block}
+.rssFeed a{
+color:#D4BEA9; 
+text-decoration:none; 
+font-size:25px; 
+-webkit-transition:-webkit-color 0.5s ease-in-out; 
+-moz-transition:-moz-color 0.5s ease-in-out; 
+transition:color 0.5s ease-in-out}
+
+.rssFeed a:link{
+color:#D4BEA9; 
+text-decoration:none; 
+-webkit-transition:-webkit-color 0.5s ease-in-out; 
+-moz-transition:-moz-color 0.5s ease-in-out; 
+transition:color 0.5s ease-in-out}
+.rssFeed:visited{
+color:#D4BEA9; 
+text-decoration:none; 
+-webkit-transition:-webkit-color 0.5s ease-in-out; 
+-moz-transition:-moz-color 0.5s ease-in-out; 
+transition:color 0.5s ease-in-out}
+.rssFeed a:hover{
+color:#CC9865; 
+text-decoration:none; 
+-webkit-transition:-webkit-color 0.5s ease-in-out; 
+-moz-transition:-moz-color 0.5s ease-in-out; 
+transition:color 0.5s ease-in-out}
+
+.rssHeader{padding:0.2em 0}
+
+.rssBody{}
+.rssBody ul{list-style:none}
+.rssBody ul, .rssRow, .rssRow h4, .rssRow p{
+margin:0; 
+padding:0}
+
+.rssRow{padding:0.8em}
+.rssRow h4{font-size:1.1em}
+.rssRow div{
+font-size:90%; 
+color:#DCA36D; 
+margin:0.2em 0 0.4em 0}
+
+.odd{}
+.even{}
+
+.rssRow .rssMedia{
+padding:0.5em; 
+font-size:1em}}
+@media screen and (min-width:521px) and (max-width:1312px){
+.rssBody{
+width:85%; 
+position:relative; 
+left:50%; 
+margin-left:-37%; 
+top:50px}
+.rssBody ul{
+width:95%; 
+display:inline-block}
+.rssBody li{
+width:50%; 
+position:relative; 
+display:inline-block}
+.rssFeed{
+font-family:Arial,Helvetica,sans-serif; 
+font-size:90%; 
+width:95%; 
+display:inline-block}
+.rssFeed a{
+color:#D4BEA9; 
+text-decoration:none; 
+font-size:25px; 
+-webkit-transition:-webkit-color 0.5s ease-in-out; 
+-moz-transition:-moz-color 0.5s ease-in-out; 
+transition:color 0.5s ease-in-out}
+
+.rssFeed a:link{
+color:#D4BEA9; 
+text-decoration:none; 
+-webkit-transition:-webkit-color 0.5s ease-in-out; 
+-moz-transition:-moz-color 0.5s ease-in-out; 
+transition:color 0.5s ease-in-out}
+.rssFeed:visited{
+color:#D4BEA9; 
+text-decoration:none; 
+-webkit-transition:-webkit-color 0.5s ease-in-out; 
+-moz-transition:-moz-color 0.5s ease-in-out; 
+transition:color 0.5s ease-in-out}
+.rssFeed a:hover{
+color:#CC9865; 
+text-decoration:none; 
+-webkit-transition:-webkit-color 0.5s ease-in-out; 
+-moz-transition:-moz-color 0.5s ease-in-out; 
+transition:color 0.5s ease-in-out}
+
+.rssHeader{padding:0.2em 0}
+
+.rssBody{}
+.rssBody ul{list-style:none}
+.rssBody ul, .rssRow, .rssRow h4, .rssRow p{
+margin:0; 
+padding:0}
+
+.rssRow{padding:0.8em}
+.rssRow h4{font-size:1.1em}
+.rssRow div{
+font-size:90%; 
+color:#DCA36D; 
+margin:0.2em 0 0.4em 0}
+
+.odd{}
+.even{}
+
+.rssRow .rssMedia{
+padding:0.5em; 
+font-size:1em}
+
+}
+ @media screen and (min-width:0px) and (max-width:520px){
+.rssBody{
+width:100%; 
+position:relative}
+.rssBody ul{
+width:100%; 
+display:inline-block}
+.rssBody li{
+width:100%; 
+position:relative; 
+display:inline-block}
+.rssFeed{
+font-family:Arial,Helvetica,sans-serif; 
+font-size:90%; 
+width:96%; 
+display:inline-block; 
+position:relative; 
+top:-45px; 
+left:50%; 
+margin-left:-49%}
+.rssFeed a{
+color:#D4BEA9; 
+text-decoration:none; 
+font-size:25px; 
+-webkit-transition:-webkit-color 0.5s ease-in-out; 
+-moz-transition:-moz-color 0.5s ease-in-out; 
+transition:color 0.5s ease-in-out}
+
+.rssFeed a:link{
+color:#D4BEA9; 
+text-decoration:none; 
+-webkit-transition:-webkit-color 0.5s ease-in-out; 
+-moz-transition:-moz-color 0.5s ease-in-out; 
+transition:color 0.5s ease-in-out}
+.rssFeed:visited{
+color:#D4BEA9; 
+text-decoration:none; 
+-webkit-transition:-webkit-color 0.5s ease-in-out; 
+-moz-transition:-moz-color 0.5s ease-in-out; 
+transition:color 0.5s ease-in-out}
+.rssFeed a:hover{
+color:#CC9865; 
+text-decoration:none; 
+-webkit-transition:-webkit-color 0.5s ease-in-out; 
+-moz-transition:-moz-color 0.5s ease-in-out; 
+transition:color 0.5s ease-in-out}
+
+.rssHeader{padding:0.2em 0}
+
+.rssBody{}
+.rssBody ul{list-style:none}
+.rssBody ul, .rssRow, .rssRow h4, .rssRow p{
+margin:0; 
+padding:0}
+
+.rssRow{padding:0.8em}
+.rssRow h4{font-size:1.1em}
+.rssRow div{
+font-size:90%; 
+color:#DCA36D; 
+margin:0.2em 0 0.4em 0}
+
+.odd{}
+.even{}
+
+.rssRow .rssMedia{
+padding:0.5em; 
+font-size:1em}}
